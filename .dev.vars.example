@@ -1,0 +1,3 @@
+## Pairing token the native Mac app generates and pastes in.
+## For local dev, put any random value here.
+APP_TOKEN=replace-with-32-bytes-base64url-token
